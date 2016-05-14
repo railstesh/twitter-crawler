@@ -15,3 +15,12 @@ timestamp of tweet
 Export that information from the page as a JSON package (Array of Hashes).
 
 When your script runs, it should just read the given twitter timeline and spit out the JSON.
+----------------------------
+
+# To run the script
+
+> Go to file /
+
+# Run
+
+> ruby twitter-spider.rb
